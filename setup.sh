@@ -6,9 +6,9 @@ setfont cyr-sun16
 #--------------------------------#
 DEVICE="/dev/sda"
 
-BOOT_SIZE="512"
-SWAP_SIZE="6144"
-ROOT_SIZE="32144"
+BOOT_SIZE="312"
+SWAP_SIZE="1024"
+ROOT_SIZE="25048"
 
 HOST="archlinux"
 TIMEZONE="Europe/Moscow"
